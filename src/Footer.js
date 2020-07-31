@@ -23,7 +23,7 @@ function Footer() {
           <i className="fa fa-instagram fa-2x" aria-hidden="true"></i>
         </a>
       </div>
-      <div className="h4 title text-center">Anthony Barnett</div>
+      <div className="h4 title text-center">Akshay Thadani</div>
       <div className="text-center text-muted">
         <p>
           &copy; Creative CV. All rights reserved.

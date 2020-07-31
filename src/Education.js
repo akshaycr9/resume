@@ -14,7 +14,7 @@ function Education() {
               data-aos-duration="500"
             >
               <div className="card-body cc-education-header">
-                <p>2013 - 2015</p>
+                <p>2011 - 2013</p>
                 <div className="h5">Master's Degree</div>
               </div>
             </div>
@@ -25,9 +25,12 @@ function Education() {
               data-aos-duration="500"
             >
               <div className="card-body">
-                <div className="h5">Master of Information Technology</div>
-                <p className="category">University of Computer Science</p>
-                <p>
+                <div className="h5">Master's in Information Technology</div>
+                <p className="category">
+                  James Cook Australia Institute Of Higher Education and
+                  Learning (Singapore)
+                </p>
+                {/* <p>
                   Euismod massa scelerisque suspendisse fermentum habitant vitae
                   ullamcorper magna quam iaculis, tristique sapien taciti mollis
                   interdum sagittis libero nunc inceptos tellus, hendrerit vel
@@ -35,7 +38,7 @@ function Education() {
                   porta vestibulum diam integer quisque eros pulvinar curae,
                   curabitur feugiat arcu vivamus parturient aliquet laoreet at,
                   eu etiam pretium molestie ultricies sollicitudin dui.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
@@ -49,7 +52,7 @@ function Education() {
               data-aos-duration="500"
             >
               <div className="card-body cc-education-header">
-                <p>2009 - 2013</p>
+                <p>2008 - 2011</p>
                 <div className="h5">Bachelor's Degree</div>
               </div>
             </div>
@@ -60,9 +63,11 @@ function Education() {
               data-aos-duration="500"
             >
               <div className="card-body">
-                <div className="h5">Bachelor of Computer Science</div>
-                <p className="category">University of Computer Science</p>
-                <p>
+                <div className="h5">Bachelor's in Computer Applications</div>
+                <p className="category">
+                  Prestige Institute Of Management & Research, Indore
+                </p>
+                {/* <p>
                   Euismod massa scelerisque suspendisse fermentum habitant vitae
                   ullamcorper magna quam iaculis, tristique sapien taciti mollis
                   interdum sagittis libero nunc inceptos tellus, hendrerit vel
@@ -70,12 +75,12 @@ function Education() {
                   porta vestibulum diam integer quisque eros pulvinar curae,
                   curabitur feugiat arcu vivamus parturient aliquet laoreet at,
                   eu etiam pretium molestie ultricies sollicitudin dui.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
         </div>
-        <div className="card">
+        {/* <div className="card">
           <div className="row">
             <div
               className="col-md-3 bg-primary"
@@ -109,7 +114,7 @@ function Education() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
