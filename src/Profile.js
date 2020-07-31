@@ -1,6 +1,7 @@
 import React from "react";
 import ProfileBackgroundImage from "./assets/images/profile-background.jpg";
 import Anthony from "./assets/images/anthony.jpg";
+import Resume from "./assets/akshay_resume.pdf";
 
 function Profile() {
   return (
@@ -33,9 +34,11 @@ function Profile() {
               </a>
               <a
                 className="btn btn-primary"
-                href="google.com" // Needs to be changed
+                href={Resume}
                 data-aos="zoom-in"
                 data-aos-anchor="data-aos-anchor"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Download CV
               </a>
