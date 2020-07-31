@@ -8,23 +8,53 @@ function AboutMe() {
           <div className="row">
             <div className="col-lg-6 col-md-12">
               <div className="card-body">
-                <div className="h4 mt-0 title">About</div>
+                <div className="h4 mt-0 title">About Me</div>
                 <p>
-                  Hello! I am Anthony Barnett. Web Developer, Graphic Designer
-                  and Photographer.
+                  Hello! I am Akshay Thadani, Full Stack Developer, Manchester
+                  United Fan and Music Lover.
                 </p>
                 <p>
-                  Creative CV is a HTML resume template for professionals. Built
-                  with Bootstrap 4, Now UI Kit and FontAwesome, this modern and
-                  responsive design template is perfect to showcase your
-                  portfolio, skills and experience.{" "}
-                  <a
+                  Technology Stack:
+                  <br />{" "}
+                  <b>
+                    Ruby, Ruby on Rails, ReactJS, React Native, Node JS, Express
+                    JS, Redux(Thunk and Saga), Angular 4, HTML5, CSS3,
+                    Javascript, jQuery, Bootstrap, Git, GitHub, Swift, Swift UI
+                  </b>{" "}
+                  <br />
+                  <br />
+                  Databases:
+                  <br />
+                  <b>MySQL, PostgreSQL, MongoDB, SQLite3</b>
+                  <br />
+                  <br />
+                  Payment Integrations:
+                  <br />
+                  <b>Stipe and Paypal</b>
+                  <br />
+                  <br />
+                  Cloud:
+                  <br />
+                  <b>
+                    Firebase (Functions, Authentication, Storage, Firestore,
+                    Hosting, Analytics, Crashlytics, App Distribution, Cloud
+                    Messaging)
+                    <br />
+                    AWS (EC2, Load Balancers, Auto Scaling, RDS, IAM, S3,
+                    Amplify )
+                  </b>
+                  <br />
+                  <br />
+                  CI/CD:
+                  <br />
+                  <b>Github Actions and Travis CI</b>
+                  {/* <a
                     href="https://templateflip.com/templates/creative-cv/"
                     rel="noopener noreferrer"
                     target="_blank"
                   >
                     Learn More
-                  </a>
+                  </a> */}
                 </p>
               </div>
             </div>
@@ -35,33 +65,31 @@ function AboutMe() {
                   <div className="col-sm-4">
                     <strong className="text-uppercase">Age:</strong>
                   </div>
-                  <div className="col-sm-8">24</div>
+                  <div className="col-sm-8">29</div>
                 </div>
                 <div className="row mt-3">
                   <div className="col-sm-4">
                     <strong className="text-uppercase">Email:</strong>
                   </div>
-                  <div className="col-sm-8">anthony@company.com</div>
+                  <div className="col-sm-8">akshay.thadani@gmail.com</div>
                 </div>
-                <div className="row mt-3">
+                {/* <div className="row mt-3">
                   <div className="col-sm-4">
                     <strong className="text-uppercase">Phone:</strong>
                   </div>
                   <div className="col-sm-8">+1718-111-0011</div>
-                </div>
+                </div> */}
                 <div className="row mt-3">
                   <div className="col-sm-4">
                     <strong className="text-uppercase">Address:</strong>
                   </div>
-                  <div className="col-sm-8">
-                    140, City Center, New York, U.S.A
-                  </div>
+                  <div className="col-sm-8">Indore, India</div>
                 </div>
                 <div className="row mt-3">
                   <div className="col-sm-4">
                     <strong className="text-uppercase">Language:</strong>
                   </div>
-                  <div className="col-sm-8">English, German, French</div>
+                  <div className="col-sm-8">English, Hindi</div>
                 </div>
               </div>
             </div>
