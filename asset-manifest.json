@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.5f361e03.chunk.css",
-    "main.js": "/resume/static/js/main.29c78496.chunk.js",
-    "main.js.map": "/resume/static/js/main.29c78496.chunk.js.map",
+    "main.css": "/resume/static/css/main.44967e11.chunk.css",
+    "main.js": "/resume/static/js/main.abfd7985.chunk.js",
+    "main.js.map": "/resume/static/js/main.abfd7985.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.05fbbc33.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.05fbbc33.js.map",
-    "static/js/2.d5610c69.chunk.js": "/resume/static/js/2.d5610c69.chunk.js",
-    "static/js/2.d5610c69.chunk.js.map": "/resume/static/js/2.d5610c69.chunk.js.map",
+    "static/css/2.aec6ccec.chunk.css": "/resume/static/css/2.aec6ccec.chunk.css",
+    "static/js/2.8020082e.chunk.js": "/resume/static/js/2.8020082e.chunk.js",
+    "static/js/2.8020082e.chunk.js.map": "/resume/static/js/2.8020082e.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.087b37072088f91ec894049b2d14a7ef.js": "/resume/precache-manifest.087b37072088f91ec894049b2d14a7ef.js",
+    "precache-manifest.32f8590738ffcfc5c07801a308c98db5.js": "/resume/precache-manifest.32f8590738ffcfc5c07801a308c98db5.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/resume/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d5610c69.chunk.js.LICENSE.txt": "/resume/static/js/2.d5610c69.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/resume/static/media/logo.5d5d9eef.svg"
+    "static/css/2.aec6ccec.chunk.css.map": "/resume/static/css/2.aec6ccec.chunk.css.map",
+    "static/css/main.44967e11.chunk.css.map": "/resume/static/css/main.44967e11.chunk.css.map",
+    "static/js/2.8020082e.chunk.js.LICENSE.txt": "/resume/static/js/2.8020082e.chunk.js.LICENSE.txt",
+    "static/media/akshay_profile_image.png": "/resume/static/media/akshay_profile_image.0a1ed186.png",
+    "static/media/akshay_resume.pdf": "/resume/static/media/akshay_resume.87391336.pdf",
+    "static/media/profile-background.jpg": "/resume/static/media/profile-background.35218858.jpg",
+    "static/media/reference-image-1.jpg": "/resume/static/media/reference-image-1.e03a8e14.jpg",
+    "static/media/reference-image-2.jpg": "/resume/static/media/reference-image-2.3eca11b0.jpg",
+    "static/media/reference-image-3.jpg": "/resume/static/media/reference-image-3.6f023ede.jpg",
+    "static/media/staticmap.png": "/resume/static/media/staticmap.8221bc81.png"
   },
   "entrypoints": [
     "static/js/runtime-main.05fbbc33.js",
-    "static/js/2.d5610c69.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.29c78496.chunk.js"
+    "static/css/2.aec6ccec.chunk.css",
+    "static/js/2.8020082e.chunk.js",
+    "static/css/main.44967e11.chunk.css",
+    "static/js/main.abfd7985.chunk.js"
   ]
 }
