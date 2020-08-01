@@ -14,7 +14,7 @@ function Skills() {
             <div className="row">
               <div className="col-md-6">
                 <div className="progress-container progress-primary">
-                  <span className="progress-badge">HTML</span>
+                  <span className="progress-badge">Ruby</span>
                   <div className="progress">
                     <div
                       className="progress-bar progress-bar-primary"
@@ -27,13 +27,13 @@ function Skills() {
                       aria-valuemax="100"
                       style={{ width: "80%" }}
                     ></div>
-                    <span className="progress-value">80%</span>
+                    <span className="progress-value">8/10</span>
                   </div>
                 </div>
               </div>
               <div className="col-md-6">
                 <div className="progress-container progress-primary">
-                  <span className="progress-badge">CSS</span>
+                  <span className="progress-badge">Ruby on Rails</span>
                   <div className="progress">
                     <div
                       className="progress-bar progress-bar-primary"
@@ -44,9 +44,9 @@ function Skills() {
                       aria-valuenow="60"
                       aria-valuemin="0"
                       aria-valuemax="100"
-                      style={{ width: "75%" }}
+                      style={{ width: "80%" }}
                     ></div>
-                    <span className="progress-value">75%</span>
+                    <span className="progress-value">8/10</span>
                   </div>
                 </div>
               </div>
@@ -65,15 +65,15 @@ function Skills() {
                       aria-valuenow="60"
                       aria-valuemin="0"
                       aria-valuemax="100"
-                      style={{ width: "60%" }}
+                      style={{ width: "80%" }}
                     ></div>
-                    <span className="progress-value">60%</span>
+                    <span className="progress-value">8/10</span>
                   </div>
                 </div>
               </div>
               <div className="col-md-6">
                 <div className="progress-container progress-primary">
-                  <span className="progress-badge">SASS</span>
+                  <span className="progress-badge">React.js</span>
                   <div className="progress">
                     <div
                       className="progress-bar progress-bar-primary"
@@ -84,9 +84,9 @@ function Skills() {
                       aria-valuenow="60"
                       aria-valuemin="0"
                       aria-valuemax="100"
-                      style={{ width: "60%" }}
+                      style={{ width: "80%" }}
                     ></div>
-                    <span className="progress-value">60%</span>
+                    <span className="progress-value">8/10</span>
                   </div>
                 </div>
               </div>
@@ -94,7 +94,7 @@ function Skills() {
             <div className="row">
               <div className="col-md-6">
                 <div className="progress-container progress-primary">
-                  <span className="progress-badge">Bootstrap</span>
+                  <span className="progress-badge">React Native</span>
                   <div className="progress">
                     <div
                       className="progress-bar progress-bar-primary"
@@ -107,13 +107,13 @@ function Skills() {
                       aria-valuemax="100"
                       style={{ width: "75%" }}
                     ></div>
-                    <span className="progress-value">75%</span>
+                    <span className="progress-value">7.5/10</span>
                   </div>
                 </div>
               </div>
               <div className="col-md-6">
                 <div className="progress-container progress-primary">
-                  <span className="progress-badge">Photoshop</span>
+                  <span className="progress-badge">Node.js</span>
                   <div className="progress">
                     <div
                       className="progress-bar progress-bar-primary"
@@ -126,7 +126,167 @@ function Skills() {
                       aria-valuemax="100"
                       style={{ width: "70%" }}
                     ></div>
-                    <span className="progress-value">70%</span>
+                    <span className="progress-value">7/10</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Express.js</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "70%" }}
+                    ></div>
+                    <span className="progress-value">7/10</span>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Angular</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "60%" }}
+                    ></div>
+                    <span className="progress-value">6/10</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">HTML5</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "70%" }}
+                    ></div>
+                    <span className="progress-value">7/10</span>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">CSS</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "70%" }}
+                    ></div>
+                    <span className="progress-value">7/10</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Git</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "75%" }}
+                    ></div>
+                    <span className="progress-value">7.5/10</span>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Github Actions</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "70%" }}
+                    ></div>
+                    <span className="progress-value">7/10</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Firebase</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "75%" }}
+                    ></div>
+                    <span className="progress-value">7.5/10</span>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">AWS</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "75%" }}
+                    ></div>
+                    <span className="progress-value">7.5/10</span>
                   </div>
                 </div>
               </div>

@@ -13,49 +13,6 @@ function AboutMe() {
                   Hello! I am Akshay Thadani, Full Stack Developer, Manchester
                   United Fan and Music Lover.
                 </p>
-                <p>
-                  Technology Stack:
-                  <br />{" "}
-                  <b>
-                    Ruby, Ruby on Rails, ReactJS, React Native, Node JS, Express
-                    JS, Redux(Thunk and Saga), Angular 4, HTML5, CSS3,
-                    Javascript, jQuery, Bootstrap, Git, GitHub, Swift, Swift UI
-                  </b>{" "}
-                  <br />
-                  <br />
-                  Databases:
-                  <br />
-                  <b>MySQL, PostgreSQL, MongoDB, SQLite3</b>
-                  <br />
-                  <br />
-                  Payment Integrations:
-                  <br />
-                  <b>Stipe and Paypal</b>
-                  <br />
-                  <br />
-                  Cloud:
-                  <br />
-                  <b>
-                    Firebase (Functions, Authentication, Storage, Firestore,
-                    Hosting, Analytics, Crashlytics, App Distribution, Cloud
-                    Messaging)
-                    <br />
-                    AWS (EC2, Load Balancers, Auto Scaling, RDS, IAM, S3,
-                    Amplify )
-                  </b>
-                  <br />
-                  <br />
-                  CI/CD:
-                  <br />
-                  <b>Github Actions and Travis CI</b>
-                  {/* <a
-                    href="https://templateflip.com/templates/creative-cv/"
-                    rel="noopener noreferrer"
-                    target="_blank"
-                  >
-                    Learn More
-                  </a> */}
-                </p>
               </div>
             </div>
             <div className="col-lg-6 col-md-12">
