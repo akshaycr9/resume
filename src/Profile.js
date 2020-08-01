@@ -1,6 +1,6 @@
 import React from "react";
 import ProfileBackgroundImage from "./assets/images/profile-background.jpg";
-import Anthony from "./assets/images/anthony.jpg";
+import Akshay from "./assets/images/akshay_profile_image.png";
 import Resume from "./assets/akshay_resume.pdf";
 
 function Profile() {
@@ -17,7 +17,7 @@ function Profile() {
             <div className="content-center">
               <div className="cc-profile-image">
                 <a href="google.com">
-                  <img src={`${Anthony}`} alt="Akshay" />
+                  <img src={`${Akshay}`} alt="Akshay" />
                 </a>
               </div>
               <div className="h2 title">Akshay Thadani</div>
