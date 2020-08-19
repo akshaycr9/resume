@@ -4255,7 +4255,7 @@ img {
   Created using IcoMoon - icomoon.io
   
   -------------------------------- */
-/* @font-face {
+@font-face {
   font-family: "Nucleo Outline";
   src: url("../fonts/nucleo-outline.eot");
   src: url("../fonts/nucleo-outline.eot") format("embedded-opentype"),
@@ -4264,7 +4264,7 @@ img {
     url("../fonts/nucleo-outline.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
-} */
+}
 
 /*------------------------
       base class definition
