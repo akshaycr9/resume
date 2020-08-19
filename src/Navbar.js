@@ -1,6 +1,11 @@
 import React from "react";
+import { Link, BrowserRouter as Router } from "react-router-dom";
 
 function Navbar() {
+  function navigateTo(e) {
+    console.log("navigatedqq");
+  }
+
   return (
     <header>
       <div className="profile-page sidebar-collapse">
@@ -28,33 +33,56 @@ function Navbar() {
               className="collapse navbar-collapse justify-content-end"
               id="navigation"
             >
-              <ul className="navbar-nav">
-                <li className="nav-item">
-                  <a className="nav-link smooth-scroll" href="#about">
-                    About
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link smooth-scroll" href="#skill">
-                    Skills
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link smooth-scroll" href="#portfolio">
-                    Portfolio
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link smooth-scroll" href="#experience">
-                    Experience
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link smooth-scroll" href="#contact">
-                    Contact
-                  </a>
-                </li>
-              </ul>
+              <Router>
+                <ul className="navbar-nav">
+                  <li className="nav-item">
+                    <Link
+                      onClick={(e) => navigateTo(e)}
+                      className="nav-link smooth-scroll"
+                      to="/"
+                      href="#about"
+                    >
+                      About
+                    </Link>
+                  </li>
+                  <li className="nav-item">
+                    <Link
+                      className="nav-link smooth-scroll"
+                      to="/"
+                      href="#skill"
+                    >
+                      Skills
+                    </Link>
+                  </li>
+                  <li className="nav-item">
+                    <Link
+                      className="nav-link smooth-scroll"
+                      to="/"
+                      href="#portfolio"
+                    >
+                      Portfolio
+                    </Link>
+                  </li>
+                  <li className="nav-item">
+                    <Link
+                      className="nav-link smooth-scroll"
+                      to="/"
+                      href="#experience"
+                    >
+                      Experience
+                    </Link>
+                  </li>
+                  <li className="nav-item">
+                    <Link
+                      className="nav-link smooth-scroll"
+                      to="/"
+                      href="#contact"
+                    >
+                      Contact
+                    </Link>
+                  </li>
+                </ul>
+              </Router>
             </div>
           </div>
         </nav>

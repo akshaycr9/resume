@@ -30,7 +30,7 @@ function Profile() {
                 data-aos="zoom-in"
                 data-aos-anchor="data-aos-anchor"
               >
-                Hire Me
+                Contact Me
               </a>
               <a
                 className="btn btn-primary"

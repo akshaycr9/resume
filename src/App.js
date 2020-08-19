@@ -1,12 +1,4 @@
 import React, { useEffect } from "react";
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import "../node_modules/aos/dist/aos.css";
-// import "../node_modules/jquery/dist/jquery.min.js";
-// import "./assets/js/popper.min.js";
-// import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
-
-// import "./assets/js/bootstrap.min.js";
-// import "./assets/js/jquery.3.2.1.min.js";
 
 import AOS from "aos";
 
