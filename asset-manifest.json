@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.44967e11.chunk.css",
-    "main.js": "/resume/static/js/main.abfd7985.chunk.js",
-    "main.js.map": "/resume/static/js/main.abfd7985.chunk.js.map",
+    "main.css": "/resume/static/css/main.533b6c29.chunk.css",
+    "main.js": "/resume/static/js/main.885ae48e.chunk.js",
+    "main.js.map": "/resume/static/js/main.885ae48e.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.05fbbc33.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.05fbbc33.js.map",
-    "static/css/2.aec6ccec.chunk.css": "/resume/static/css/2.aec6ccec.chunk.css",
-    "static/js/2.8020082e.chunk.js": "/resume/static/js/2.8020082e.chunk.js",
-    "static/js/2.8020082e.chunk.js.map": "/resume/static/js/2.8020082e.chunk.js.map",
+    "static/js/2.7d0b74c8.chunk.js": "/resume/static/js/2.7d0b74c8.chunk.js",
+    "static/js/2.7d0b74c8.chunk.js.map": "/resume/static/js/2.7d0b74c8.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.32f8590738ffcfc5c07801a308c98db5.js": "/resume/precache-manifest.32f8590738ffcfc5c07801a308c98db5.js",
+    "precache-manifest.8508b5a11d1203557282c76fff699556.js": "/resume/precache-manifest.8508b5a11d1203557282c76fff699556.js",
     "service-worker.js": "/resume/service-worker.js",
-    "static/css/2.aec6ccec.chunk.css.map": "/resume/static/css/2.aec6ccec.chunk.css.map",
-    "static/css/main.44967e11.chunk.css.map": "/resume/static/css/main.44967e11.chunk.css.map",
-    "static/js/2.8020082e.chunk.js.LICENSE.txt": "/resume/static/js/2.8020082e.chunk.js.LICENSE.txt",
+    "static/css/main.533b6c29.chunk.css.map": "/resume/static/css/main.533b6c29.chunk.css.map",
+    "static/js/2.7d0b74c8.chunk.js.LICENSE.txt": "/resume/static/js/2.7d0b74c8.chunk.js.LICENSE.txt",
     "static/media/akshay_profile_image.png": "/resume/static/media/akshay_profile_image.0a1ed186.png",
     "static/media/akshay_resume.pdf": "/resume/static/media/akshay_resume.87391336.pdf",
+    "static/media/main.css": "/resume/static/media/nucleo-outline.8ebec31f.woff2",
     "static/media/profile-background.jpg": "/resume/static/media/profile-background.35218858.jpg",
     "static/media/reference-image-1.jpg": "/resume/static/media/reference-image-1.e03a8e14.jpg",
     "static/media/reference-image-2.jpg": "/resume/static/media/reference-image-2.3eca11b0.jpg",
@@ -24,9 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.05fbbc33.js",
-    "static/css/2.aec6ccec.chunk.css",
-    "static/js/2.8020082e.chunk.js",
-    "static/css/main.44967e11.chunk.css",
-    "static/js/main.abfd7985.chunk.js"
+    "static/js/2.7d0b74c8.chunk.js",
+    "static/css/main.533b6c29.chunk.css",
+    "static/js/main.885ae48e.chunk.js"
   ]
 }
